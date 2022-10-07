@@ -4,7 +4,7 @@
 - 💞️ I’m also interested by NDT, VTK and computational fluid Dynamics.
 - I have the ability to write code in several languages such as C++ and Python
 - Feel free to hit, I'll very happy to colaborate with you
-- 📫 How to reach me ...
+- Just send me an email: cherifseye2018@gmail.com
 
 <!---
 cherifseye/cherifseye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
