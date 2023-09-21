@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Cherif Ahmad Seye, a physcical engineering student and majoring in aerospace.<br>- 👀 I’m interested in Cars, Planes and UAV<br>- 🌱 I’m currently member of GAUL of aerospace group of Ulaval in the Avionic's Team<br>- 💞️ I’m also interested by Deep Learning and Medical Sciences.<br>- I have the ability to write code in several languages such as C++ and Python<br>- Feel free to hit, I'll very happy to colaborate with you<br>- Just send me an email: cherifseye2018@gmail.com
+👋 Hi, I’m Cherif Ahmad Seye, a physcical engineering student .<br>- 👀 I’m interested in Cars, Planes and UAV<br>- 🌱 I’m currently member of GAUL of aerospace group of Ulaval in the Avionic's Team<br>- 💞️ I’m also interested by Deep Learning and Medical Sciences.<br>- I have the ability to write code in several languages such as C++ and Python<br>- Feel free to hit, I'll very happy to colaborate with you<br>- Just send me an email: cherifseye2018@gmail.com
 
 
 # 💻 Tech Stack:
